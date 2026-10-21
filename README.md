@@ -87,3 +87,13 @@ shopify-app-store-analysis/
 
 ## How to open
 Install Power BI Desktop, download `report.pbix` and the `data/` files, open the report, update data source paths if prompted, and refresh. Use the page navigator to switch between Overview and Trend Analysis.
+## Dashboard Screenshots
+
+### 1. Overview Dashboard
+![Overview Dashboard](screenshots/overview_page.png)
+
+### 2. Trend Analysis Dashboard
+![Trend Analysis](screenshots/trend_analysis_page.png)
+
+### 3. Data Model
+![Data Model](screenshots/model_view.png)
